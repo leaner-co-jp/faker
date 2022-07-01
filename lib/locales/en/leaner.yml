@@ -1,0 +1,21 @@
+en:
+  faker:
+    leaner:
+      property:
+        key:
+          - "IF(mA)"
+          - "IV(mcd)"
+          - "No."
+          - "code"
+          - "size"
+          - "series"
+          - "rank"
+      unit:
+        - "ft"
+        - "g"
+        - "kg"
+        - "kW"
+        - "L"
+        - "m"
+        - "m2"
+        - "m3"
